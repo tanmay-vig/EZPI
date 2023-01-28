@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg1 {
+    background-color: #ded1e9;
+    height: 500px;
+    text-align: center;
+}
+
+
+.logo{
+    margin-top: 20px;
+}
+.people1{
+    height: 400px;
+}
+.bg2 {
+    background-color: #ffffff;
+    height: 300px;
+    text-align: center;
+}
+.liner{
+    padding-top: 30px;
+    font-size: 30px;
+    color: #0B0A0A;
+}
+.definition{
+    font-size: 15px;
+    color: grey;
+    padding-top: 4px;
+    font-weight: 200;
+    padding-bottom: 20px;
+}
+.btn{
+    
+    text-align: center;
+    height: 50px;
+    background-color: black;
+    width: 270px;
+    font-weight: lighter;
+    margin:4px 20px;
+    border: 0px;
+    border-radius: 10px;
+}
+.bg-gray{
+    background-color: gray;
+}
+.login , .SignUp{
+    text-decoration: none;
+    color: white;
+}
